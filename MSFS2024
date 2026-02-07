@@ -1,0 +1,21 @@
+payload:
+  # Microsoft / Xbox core
+  - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,xboxlive.com
+  - DOMAIN-SUFFIX,xboxservices.com
+  - DOMAIN-SUFFIX,xbox.com
+
+  # Microsoft Flight Simulator
+  - DOMAIN-SUFFIX,flightsimulator.com
+  - DOMAIN-SUFFIX,msfs.net
+
+  # Azure / Bing (map, weather, photogrammetry)
+  - DOMAIN-SUFFIX,azureedge.net
+  - DOMAIN-SUFFIX,trafficmanager.net
+  - DOMAIN-SUFFIX,virtualearth.net
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,bingapis.com
+
+  # CDN / streaming assets
+  - DOMAIN-SUFFIX,akamaized.net
+  - DOMAIN-SUFFIX,cloudapp.azure.com
