@@ -1,0 +1,20 @@
+payload:
+  # Blizzard / Battle.net core
+  - DOMAIN-SUFFIX,battle.net
+  - DOMAIN-SUFFIX,blizzard.com
+  - DOMAIN-SUFFIX,blzstatic.com
+
+  # World of Warcraft
+  - DOMAIN-SUFFIX,worldofwarcraft.com
+
+  # WoW community / data (US commonly used)
+  - DOMAIN-SUFFIX,wowhead.com
+  - DOMAIN-SUFFIX,wowheadcdn.com
+
+  # Blizzard service endpoints
+  - DOMAIN-SUFFIX,actual.battle.net
+  - DOMAIN-SUFFIX,level3.blizzard.com
+  - DOMAIN-SUFFIX,edgecast.blizzard.com
+
+  # CDN (used by Blizzard / WoW patches)
+  - DOMAIN-SUFFIX,akamaihd.net
